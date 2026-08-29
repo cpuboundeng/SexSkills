@@ -11,7 +11,7 @@ The climax — the orgasm — is the scene's peak, the payoff of every built-up 
 
 The craft of writing orgasm is really the craft of *release*. Everything before it is tension — physical, emotional, narrative. The climax is the instant that tension breaks, and the art is in rendering that break *felt*: the body's involuntary surrender, the mind's brief white-out, the wave crashing through and receding. A great orgasm scene makes the reader's own pulse pick up.
 
-**Key distinction:** This skill is about writing the *moment* — the peak and its immediate aftermath. **Edging** (holding off the peak) lives in `masturbation`; **orgasm control** (who *allows* the peak) lives in `bdsm/references/orgasm_control.md`; **the creampie/cumshot** (where the climax *lands*) live in `breeding-creampie` and `cumshot`. The climax skill is the apex itself.
+**Key distinction:** This skill is about writing the *moment* — the peak and its immediate aftermath. **Edging** (holding off the peak) lives in `masturbation`; **orgasm control** (who *allows* the peak) lives in `bdsm/references/orgasm_control.md`; **the creampie/cumshot** (where the climax *lands*) lives in `cum-play`. The climax skill is the apex itself.
 
 ---
 

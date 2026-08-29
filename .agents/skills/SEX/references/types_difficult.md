@@ -2,7 +2,7 @@
 
 # Types of Sex — The Difficult & Complex
 
-This reference covers the 12 *complex* types of sex — the encounters shaped by conflict, endings, imbalance, or altered states. These are the most dramatically potent types for fiction: the emotional stakes are high and the interiority is rich. Based on the psychological framework of the 23 types of sex (PsychologyFor, 2026).
+This reference covers the 12 *complex* types of sex — the encounters shaped by conflict, endings, imbalance, or altered states. These are the most dramatically potent types for fiction: the emotional stakes are high and the interiority is rich. Based on the psychological framework of the 24 types of sex (PsychologyFor, 2026).
 
 ---
 

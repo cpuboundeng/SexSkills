@@ -1,7 +1,3 @@
----
-name: exhibitionism-public-nudity
-description: "Comprehensive guide to exhibitionism, nudism, naturism, and public nudity — from soft exhibitionism and flashing to nudist beach culture, clothing-optional resorts, and public sex. Use when the user wants to explore or write about being seen naked in public, nudist lifestyles, exhibitionist fantasies, or public sex scenarios."
----
 
 # Exhibitionism & Public Nudity
 
@@ -11,7 +7,6 @@ Exhibitionism and public nudity encompass a broad spectrum of behaviors, from no
 
 The key distinguishing factors across all forms are **intent, consent, context, and conduct**. A nudist sunbathing topless at a clothing-optional beach is not an exhibitionist; an exhibitionist deliberately draws attention for sexual thrill; a public-sex couple in a secluded spot seeks mutual arousal through risk. Understanding these distinctions is essential for accurate writing and roleplay.
 
----
 
 ## Core Categories
 
@@ -40,7 +35,6 @@ The key distinguishing factors across all forms are **intent, consent, context, 
 - **Shower Before Swimming:** Standard hygiene at pools and beaches.
 - **Arrive Nude or Strip:** Once you cross the boundary, you're nude. No "half-nude" limbo.
 
----
 
 ### 2. Exhibitionism (The Thrill of Being Seen)
 
@@ -80,7 +74,6 @@ The key distinguishing factors across all forms are **intent, consent, context, 
 - Stripping at a crowded club after-hours
 - Flashing a neighbor through a window or balcony
 
----
 
 ### 3. Public Sex (Consensual Exposure + Sexual Activity)
 
@@ -126,7 +119,6 @@ Public sex typically involves a **consenting partner** and the thrill is about *
 - **The near-miss:** Someone approaches just as things peak — cut it short or push through
 - **Aftercare:** The adrenaline crash, the shared secret, the giddy rush afterward
 
----
 
 ### 4. Voyeurism/Exhibitionism as a Pair
 
@@ -141,7 +133,6 @@ Voyeurism (the desire to watch) and exhibitionism (the desire to be watched) are
 - **Cuckolding/Cuckqueaning:** Watching a partner be exposed with others; the exhibitionist partner performs for a stranger
 - **Directed exhibitionism:** A dominant or partner giving specific instructions about what, when, and how to expose
 
----
 
 ## Writing Tips & Sensory Checklist
 
@@ -168,7 +159,6 @@ Voyeurism (the desire to watch) and exhibitionism (the desire to be watched) are
 - **Risk realism:** Consider legal implications, weather, practicality of positions, likelihood of discovery
 - **Pacing:** Exhibitionism peaks on the moment of exposure; public sex peaks on the near-miss or the climax itself
 
----
 
 ## Common Pitfalls
 
@@ -181,7 +171,6 @@ Voyeurism (the desire to watch) and exhibitionism (the desire to be watched) are
 | **No escalation or payoff** | The tension builds toward exposure or discovery. Make sure there's a peak — the flash, the catch, the climax. |
 | **Generic settings** | Specificity sells: a 24-hour laundromat at 3 AM, the top floor of a parking garage at sunset, a hot tub at a family resort. |
 
----
 
 ## Scene Structure
 
@@ -207,7 +196,6 @@ Voyeurism (the desire to watch) and exhibitionism (the desire to be watched) are
 4. **Deepening:** Body acceptance grows. A sense of freedom and authenticity.
 5. **Departure:** Reluctance to dress again. The desire to stay in the nude world.
 
----
 
 ## Legal & Social Context
 
@@ -223,7 +211,6 @@ Voyeurism (the desire to watch) and exhibitionism (the desire to be watched) are
 - **Australia:** Strong nudist beach culture (e.g., Norah Head, Coogee)
 - **Asia:** Varies widely — some areas embrace it, others remain conservative
 
----
 
 ## Quick Reference: Nudism vs Naturism vs Exhibitionism
 

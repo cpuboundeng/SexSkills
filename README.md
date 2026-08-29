@@ -14,9 +14,9 @@ Agent Skills are the standard format for giving AI agents specialized, on-demand
 
 1. **YAML frontmatter** — a `name` and a `description` (the description tells the agent *when* to load the skill).
 2. **Markdown body** — the actual reference content (techniques, vocabulary, scene structure, etc.).
-3. **Optional `references/`** — deeper material loaded only when needed (used by `bdsm` and `sex`).
+3. **Optional `references/`** — deeper material loaded only when needed (used by `bdsm`, `sex`, `anal`, `fingering`, `cum-play`, and more).
 
-The agent sees only the name + description in its context until a task matches, then loads the full guide. This is *progressive disclosure* — 25 rich guides without bloating the prompt.
+The agent sees only the name + description in its context until a task matches, then loads the full guide. This is *progressive disclosure* — 31 rich guides without bloating the prompt.
 
 ---
 
@@ -55,31 +55,37 @@ The skills are plain Markdown — read them directly as reference material.
 
 | Skill | What it covers |
 |-------|----------------|
+| `skill-style-guide` | The **master craft guide** — POV, pacing, tension, sensory language, consent framing, avoiding clichés, scene structure. Load alongside any act-specific skill. |
 | `aftercare` | Emotional and sensory aftercare — cuddling, pillow talk, vulnerability, tenderness, and the charged quiet after sex. |
-| `anal` | Complete anal play — preparation, toys, positions, prostate stimulation, butt plugs, anal sex for all bodies. |
+| `anal` | Complete anal play — preparation, toys, positions, prostate stimulation, butt plugs, anal sex, and pegging (strap-on penetration) for all bodies. |
 | `bdsm` | Negotiation, safewords, bondage, D/s, sadism/masochism, impact play, shibari, humiliation, CNC, orgasm control, and more. |
 | `blowjob` | Fellatio — giving techniques, receiving sensations, positions, face-fuck dynamics. |
-| `breeding-creampie` | The creampie act, impregnation fantasy, breeding dirty talk, cum-play aftermath, power dynamics. |
-| `bukkake` | Multi-participant facial ejaculation — origins, mechanics, face vs. body focus, power dynamics. |
+| `breast-play` | Breast and nipple play — breast worship, nipple stimulation, nipple orgasm, titfucking (mammary intercourse). |
+| `character-creation` | Creating smut characters — gender & sexuality, race & ethnicity, body type, appearance, personality, preferences, kinks, and backstory. |
 | `climax` | Writing the orgasm beat — male/female differences, sensory language, POV, avoiding clichés. |
 | `cuckold-cuckquean` | Cuckold/cuckquean dynamics — roles, humiliation, power exchange, scenario variations. |
-| `cumshot` | External ejaculation — facial/body finishes, the "where to finish" decision, cum-play aftermath. |
-| `cunnilingus` | Oral sex on a woman — clitoral anatomy, tongue techniques, positions, rhythm, sensory detail. |
-| `dirty-talk` | Verbal eroticism — praise, degradation, commands, questions, moans, tone calibration. |
+| `cum-play` | Where the climax lands — creampie/breeding (internal), cumshot (external/facial), bukkake (group facial), plus lactation/milking; the where-to-finish decision, aftermath, power dynamics. |
+| `cunnilingus` | Oral sex on a woman — clitoral anatomy, tongue techniques, positions, rhythm, sensory detail, and facesitting. |
 | `erotic-massage` | Swedish, sensual, tantric, and nuru massage — oil/touch protocols, the relaxation-to-arousal arc. |
-| `exhibitionism-public-nudity` | Exhibitionism, nudism, naturism, public nudity — from flashing to nudist culture and public sex. |
-| `fingering` | Digital stimulation — external/internal techniques, giver mechanics, receiver sensations. |
-| `group-sex` | Multi-partner sex — threesomes, orgies, swinging; positions, dynamics, etiquette. |
+| `exhibitionism-voyeurism` | The gaze — exhibitionism (being seen, public nudity, public sex) and voyeurism (watching, peeping); the watcher/watched dynamic, consent frames. |
+| `fingering` | Digital stimulation — external/internal techniques, giver mechanics, receiver sensations, and fisting (whole-hand penetration). |
+| `foreplay` | The anticipation arc — teasing, escalation, erogenous zones, building arousal before penetration. |
+| `group-sex` | Multi-partner sex — threesomes, foursomes, orgies, swinging, gangbangs, free-use, and double penetration; positions, dynamics, etiquette. |
 | `handjob` | Manual stimulation of a penis — grip, lube, strokes, frenulum focus, edging, ruined orgasms. |
 | `harem` | Harem and reverse-harem dynamics — archetypes, character types, relationship structures. |
-| `incest` | Step-family and blood-relation dynamics — relationship types, tropes, psychology, writing techniques. |
+| `incest` | Step-family and blood-relation dynamics — relationship types, family sex (group scenes), tropes, psychology, writing techniques. |
+| `infidelity` | Infidelity & cheating — the affair, secrecy, guilt, discovery, and NTR (netorare) as its anguished genre cousin. |
 | `kissing` | The kissing guide — Kama Sutra types to modern styles, techniques, sensory detail. |
 | `lesbian-gay` | Queer sex dynamics — butch/femme roles, top/bottom identities, intimacy styles, techniques. |
 | `masturbation` | Self-pleasure for male/female anatomy — techniques, sensations, positions, edging. |
+| `monster-tentacle` | Monster and tentacle erotica — teratophilia, monsterfucking, tentacles, knotting, oviposition, non-human anatomy in fantasy smut. |
 | `roleplay` | Scripted fantasy scenarios — personas, power dynamics, the in-character arc. |
-| `sex` | Sex scenes — 23 types (romantic, casual, angry, first-time…) + positions, sensations, dynamics. |
-| `sex-toys` | Vibrators, air-pulse toys, dildos, anal toys, strokers, cock rings; materials, lube, safety. |
-| `threesome` | Three-person scenes — MMF, MFM, MFF, MMM, FFF configurations, choreography, dynamics. |
+| `seduction` | The pre-desire phase — first meeting, the spark, flirting/banter, the push-pull, pursuit and the chase, the threshold where intent becomes unambiguous. |
+| `sex` | Sex scenes — 24 types (romantic, casual, angry, first-time, quickie…) + positions, sensations, dynamics. |
+| `sex-toys` | Vibrators, air-pulse toys, dildos, anal toys, strokers, cock rings, remote-controlled/public play; materials, lube, safety. |
+| `squirting` | Female ejaculation — the G-spot and Skene's glands, technique, sensation, writing the release. |
+| `verbal-erotica` | Verbal erotica — spoken dirty talk (praise, degradation, commands, begging) and sexting/phone sex; tone calibration, pacing exchanges. |
+| `watersports` | Watersports — golden showers, piss play, urolagnia, omorashi (desperation/wetting); the intimacy/degradation spectrum of urine in sex. |
 
 ---
 
@@ -90,15 +96,52 @@ SexSkills/
 ├── README.md                  # You are here
 ├── TEMPLATE_NEW_SKILL.md      # Guide for adding a new skill
 ├── .agents/
-│   └── skills/                # ← The skills (25 directories)
+│   └── skills/                # ← The skills (31 directories)
 │       ├── AFTERCARE/SKILL.md
+│       ├── ANAL/
+│       │   ├── SKILL.md
+│       │   └── references/    # pegging
 │       ├── BDSM/
 │       │   ├── SKILL.md
 │       │   └── references/    # 31 sub-guides loaded on demand
+│       ├── BREAST_PLAY/SKILL.md
+│       ├── CHARACTER_CREATION/
+│       │   ├── SKILL.md
+│       │   └── references/    # gender/sexuality, race/ethnicity, body type, appearance, personality/backstory, preferences, kinks
+│       ├── CUM_PLAY/
+│       │   ├── SKILL.md
+│       │   └── references/    # creampie/breeding, cumshot, bukkake, lactation
+│       ├── CUNNILINGUS/
+│       │   ├── SKILL.md
+│       │   └── references/    # facesitting
+│       ├── EXHIBITIONISM_VOYEURISM/
+│       │   ├── SKILL.md
+│       │   └── references/    # public nudity/exhibitionism, voyeurism
+│       ├── FINGERING/
+│       │   ├── SKILL.md
+│       │   └── references/    # fisting
+│       ├── GROUP_SEX/
+│       │   ├── SKILL.md
+│       │   └── references/    # threesome, gangbang/free-use, double penetration
+│       ├── INCEST/
+│       │   ├── SKILL.md
+│       │   └── references/    # family sex
+│       ├── INFIDELITY/
+│       │   ├── SKILL.md
+│       │   └── references/    # ntr
+│       ├── MONSTER_TENTACLE/SKILL.md
+│       ├── SEDUCTION/SKILL.md
 │       ├── SEX/
 │       │   ├── SKILL.md
 │       │   └── references/    # types + positions
-│       └── ... (22 more)
+│       ├── SEX_TOYS/
+│       │   ├── SKILL.md
+│       │   └── references/    # remote-controlled & public play
+│       ├── VERBAL_EROTICA/
+│       │   ├── SKILL.md
+│       │   └── references/    # dirty talk, sexting
+│       ├── WATERSPORTS/SKILL.md
+│       └── ... (13 more)
 └── .claude/
     └── skills -> ../.agents/skills   # symlink for Claude Code
 ```

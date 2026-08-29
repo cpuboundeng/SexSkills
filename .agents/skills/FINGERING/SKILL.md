@@ -1,6 +1,6 @@
 ---
 name: fingering
-description: "Complete guide to fingering — external and internal techniques, giver mechanics, receiver sensations, positions, and advanced variations. Use when describing or roleplaying digital stimulation of the vulva, clitoris, vagina, anus, or prostate in smut/RP stories."
+description: "Complete guide to fingering — external and internal techniques, giver mechanics, receiver sensations, positions, advanced variations, and fisting (whole-hand penetration). Use when describing or roleplaying digital stimulation of the vulva, clitoris, vagina, anus, prostate, or fisting in smut/RP stories."
 ---
 
 # FINGERING
@@ -83,6 +83,8 @@ Internal fingering involves inserting one or more fingers into the vagina (or an
 **Double-Hand Fingering** — One hand works externally (thumb on clit) while the other penetrates internally.
 
 **Anal Internal** — "Ring Around the Roses": trace the outside of the anus before entry. "Come Hither": locate prostate with a curling motion. "The I.V. Move": two fingers opening/closing in a V-to-I pattern while pressing the prostate.
+
+**Fisting (whole hand)** — the deep end of internal play: the entire hand enters the vagina or rectum over a slow, patient, multi-stage build. See `references/fisting.md` for the full guide.
 
 ---
 
@@ -208,6 +210,14 @@ Internal fingering involves inserting one or more fingers into the vagina (or an
 ### Receiver Considerations
 - Not communicating preferences — every body is different; guide the giver.
 - Expecting penetration alone = orgasm — most people need clitoral stimulation.
+
+---
+
+## Reference Library
+
+| Reference | Contents |
+|-----------|----------|
+| `references/fisting.md` | Whole-hand penetration — safety & warm-up, vaginal vs. anal, the "pop," deep-spot sensation, power dynamics, scene arc |
 
 ---
 

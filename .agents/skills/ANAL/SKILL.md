@@ -1,6 +1,6 @@
 ---
 name: anal
-description: "Complete anal play guide — preparation, toys, positions, prostate stimulation, butt plugs, and anal sex for all bodies. Use when describing or roleplaying anal play, anal sex, or butt plugs in smut/RP stories."
+description: "Complete anal play guide — preparation, toys, positions, prostate stimulation, butt plugs, anal sex, and pegging (strap-on penetration) for all bodies. Use when describing or roleplaying anal play, anal sex, butt plugs, or pegging in smut/RP stories."
 ---
 
 # ANAL
@@ -91,6 +91,10 @@ A string of progressively sized beads. Pulling them out creates a rush of altern
 
 - Gentle water-only rinse, optional before deeper play
 - Keep it light — don't overdo
+
+### Pegging (Strap-On Penetration)
+
+One partner penetrates the other's anus while wearing a strap-on dildo — most commonly a woman pegging a man. Every anal mechanic above applies (lube, warm-up, sphincter relaxation, P-spot angle), but the erotic engine is the **role reversal**: the usual receiver becomes the penetrator. See `references/pegging.md` for the full guide — harness, positions, the prostate payoff, and the psychology of the reversal.
 
 ---
 
@@ -321,6 +325,12 @@ Receiver on side on edge of bed. Giver stands beside them and enters.
 Don't end at the physical climax. The aftermath carries emotional weight. Does the receiver pull the giver up for a kiss? Do they collapse into each other? A moment of quiet intimacy or a rough exchange — the landing tells the reader what the scene meant.
 
 ---
+
+## Reference Library
+
+| Reference | Contents |
+|-----------|----------|
+| `references/pegging.md` | Strap-on penetration — the harness, role-reversal psychology, positions, P-spot/prostate orgasm, power dynamics, scene arc |
 
 ## Quick Reference: Scene Arc
 

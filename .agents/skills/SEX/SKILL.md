@@ -1,6 +1,6 @@
 ---
 name: sex
-description: "Complete skill for writing sex scenes — the 23 types of sex (romantic, casual, makeup, pity, first-time, angry, playful, and more) with their psychological registers, plus sex positions (missionary, doggy, cowgirl, spooning, and more) with sensations and dynamics. Use when describing or roleplaying any sex scene in smut/RP stories."
+description: "Complete skill for writing sex scenes — the 24 types of sex (romantic, casual, makeup, pity, first-time, angry, playful, quickie, and more) with their psychological registers, plus sex positions (missionary, doggy, cowgirl, spooning, and more) with sensations and dynamics. Use when describing or roleplaying any sex scene in smut/RP stories."
 ---
 
 # SEX
@@ -14,11 +14,11 @@ Every sex scene is defined by two axes:
 
 Type × Position = Scene. A romantic reunion in spooning is a completely different scene than the same spooning done in anger. Choosing both deliberately — and knowing what each choice communicates — is the difference between a sex scene that advances the story and one that just changes the furniture.
 
-This skill gives you the full emotional taxonomy (23 types, drawn from the psychology of intimacy) and the physical vocabulary (the positions, from foundational to expanded), each with the sensations, dynamics, and writing angles that make them land.
+This skill gives you the full emotional taxonomy (24 types, drawn from the psychology of intimacy) and the physical vocabulary (the positions, from foundational to expanded), each with the sensations, dynamics, and writing angles that make them land.
 
 ---
 
-## The 23 Types of Sex (At a Glance)
+## The 24 Types of Sex (At a Glance)
 
 | Type | Emotional Register | Scene Signature |
 |------|-------------------|-----------------|
@@ -31,6 +31,7 @@ This skill gives you the full emotional taxonomy (23 types, drawn from the psych
 | **Dominant/Submissive** | Power exchange, trust | Negotiated control, surrender, aftercare |
 | **Experimental** | Novelty, curiosity | Trying something new, laughter at awkwardness |
 | **Adventure** | Novelty + risk | Unexpected locations, transgression, a story to tell |
+| **Quickie** | Urgency, the stolen moment | Fast, spontaneous, half-dressed, against the clock |
 | **Make-up-for-lost-time** | Reunion, reconnection | Urgent relief after absence or distance |
 | **Routine** | Familiar, predictable | Comfortable habit — and its hidden cost |
 | **Makeup** | Reconciliation after conflict | Raw, urgent, post-repair reconnection |
@@ -46,7 +47,7 @@ This skill gives you the full emotional taxonomy (23 types, drawn from the psych
 | **Transactional** | Exchange, currency | Sex as trade for money, security, or leverage |
 | **Ego-boosting** | Validation, mirroring | Desire sought as evidence of worth |
 
-> The first 11 (top half) are the *connection* types — both people genuinely present and wanting. The bottom 12 are the *complex* types — conflict, endings, imbalance, or altered states shape the encounter. Both halves are fertile fiction territory; the complex types often carry the most dramatic weight.
+> The first 12 (top half) are the *connection* types — both people genuinely present and wanting. The bottom 12 are the *complex* types — conflict, endings, imbalance, or altered states shape the encounter. Both halves are fertile fiction territory; the complex types often carry the most dramatic weight.
 
 ---
 
@@ -131,7 +132,7 @@ This skill focuses on the *scene* — type and position. Pair it with:
 - `blowjob`, `cunnilingus` — oral technique and sensation depth
 - `fingering`, `masturbation` — manual play, mutual masturbation
 - `bdsm` — dominant/submissive types of sex, power exchange, impact
-- `group_sex`, `threesome` — multi-partner positions and dynamics
+- `group-sex` — multi-partner positions and dynamics (threesomes, gangbangs, free-use, DP)
 - `lesbian_gay` — same-sex dynamics and intimacy styles
 
 ---
@@ -140,7 +141,7 @@ This skill focuses on the *scene* — type and position. Pair it with:
 
 | Reference | Contents |
 |-----------|----------|
-| `references/types_connection.md` | Romantic, affirmation, comfort, playful, tantric/spiritual, fantasy-driven, dominant/submissive, experimental, adventure, make-up-for-lost-time, routine |
+| `references/types_connection.md` | Romantic, affirmation, comfort, playful, tantric/spiritual, fantasy-driven, dominant/submissive, experimental, adventure, quickie, make-up-for-lost-time, routine |
 | `references/types_difficult.md` | Makeup, angry, first-time, breakup, closure, make-up-your-mind, casual, pity, revenge, intoxicated, transactional, ego-boosting |
 | `references/positions_foundation.md` | Missionary + variants, doggy + variants, cowgirl/reverse, spooning, side-lying, standing |
 | `references/positions_expanded.md` | Sitting/kneeling, anal positions, less-common/acrobatic, furniture, pregnancy |

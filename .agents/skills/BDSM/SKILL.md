@@ -175,4 +175,4 @@ Consent isn't a contract scene you have to write out — it's the *way* the top 
 | `references/pillory.md` | Pillory types, immobilization, exposure, safety |
 | `references/age_play.md` | Little/caregiver dynamics, elements, safety |
 | `references/service_worship.md` | Service types, worship techniques, ritual |
-| `references/exhibition_voyeurism.md` | Exhibition/voyeur types, public play, legality |
+| `references/exhibition_voyeurism.md` | Exhibition/voyeur types as BDSM power play, public play, legality — for non-kink being-seen/watching, see the `exhibitionism-voyeurism` skill |

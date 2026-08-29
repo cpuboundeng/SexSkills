@@ -1,6 +1,6 @@
 ---
 name: sex-toys
-description: "Complete sex toy guide — vibrators, air-pulse toys, dildos, anal toys, strokers, cock rings, couples toys, materials, lube compatibility, safety, and writing tips. Use when describing or roleplaying toy play in solo or partnered smut/RP scenes."
+description: "Complete sex toy guide — vibrators, air-pulse toys, dildos, anal toys, strokers, cock rings, couples toys, remote-controlled/public play, materials, lube compatibility, safety, and writing tips. Use when describing or roleplaying toy play in solo or partnered smut/RP scenes."
 ---
 
 # SEX TOYS
@@ -90,7 +90,7 @@ The toy as companion. The character's private ritual: charging it, cleaning it, 
 - **The surprise** — the toy is revealed mid-scene ("I got us something"). The reaction — thrill or hesitation — is the story.
 
 ### Power dynamics
-- **The remote** — one partner controls the other's pleasure from a distance. Public settings, restraint, or simply across the bed. Control is the point, not the sensation.
+- **The remote** — one partner controls the other's pleasure from a distance. Public settings, restraint, or simply across the bed. Control is the point, not the sensation. See `references/remote_public_play.md` for the full scene guide — the hidden wearable, public composure play, and long-distance control.
 - **The unyielding machine** — a toy never tires, never relents. It can "outlast" a human, which is both thrilling and, for some, intimidating — a jealousy/competition angle worth exploring.
 
 ### The "third partner" tension
@@ -135,3 +135,11 @@ Toys can read as a rival ("you like that more than me?") or as an ally ("let me 
 6. **The Peak** — The receiver breaks under the vibration — the toy pushed against them, held firm through the climax, drawing it out past the point they thought they could take.
 
 7. **The Aftermath** — The toy clicks off. The sudden silence. The receiver limp, oversensitive, laughing weakly. The giver sets it aside and reaches for *them* instead.
+
+---
+
+## Reference Library
+
+| Reference | Contents |
+|-----------|----------|
+| `references/remote_public_play.md` | Remote-controlled vibrators & public play — the hidden wearable, composure play, the controller/receiver dynamic, long-distance, scene arc |

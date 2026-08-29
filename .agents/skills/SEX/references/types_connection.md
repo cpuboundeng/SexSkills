@@ -2,7 +2,7 @@
 
 # Types of Sex — Connection
 
-This reference covers the 11 *connection* types of sex — the encounters where both people are genuinely present and wanting. Based on the psychological framework of the 23 types of sex (PsychologyFor, 2026), each entry gives the psychology, the felt experience, the writing angle, and the watch-outs.
+This reference covers the 12 *connection* types of sex — the encounters where both people are genuinely present and wanting. Based on the psychological framework of the 24 types of sex (PsychologyFor, 2026), each entry gives the psychology, the felt experience, the writing angle, and the watch-outs.
 
 ---
 
@@ -113,6 +113,18 @@ This reference covers the 11 *connection* types of sex — the encounters where 
 **Writing angle**: The setting is a character — write the location's texture (the picnic blanket, the hotel window, the car's back seat, the office after hours). The risk is the spice: the door that might open, the voice in the next room. The shared audacity afterward is the payoff.
 
 **Watch-outs**: Enthusiasm must be mutual — suppressed discomfort is compliance, not adventure. In fiction, write both characters' actual participation in the risk.
+
+---
+
+## Quickie Sex
+
+**Psychology**: Sex compressed by circumstance — fast, spontaneous, often in an inconvenient place or a stolen window of time. The clock is the aphrodisiac: urgency strips away performance, foreplay, and overthinking, leaving raw, immediate want. Quickies thrive on the thrill of the stolen moment — the "we only have five minutes," the risk of interruption, the defiance of the schedule.
+
+**Felt experience**: Breathless, urgent, a little reckless. Clothes pushed aside rather than removed; bodies pressed against a wall, a door, a desk. Intensity is high and duration is short — desire sharpened by scarcity. Often ends in laughter, a glance at the clock, and the lingering buzz of having gotten away with it.
+
+**Writing angle**: Write the *time pressure* — the countdown, the door that might open, the voices down the hall. Short sentences, fragments, the body moving before the mind. Skip the long build; the ignition *is* the scene. The quickie's power is in its compression — every beat matters because there's no room to waste.
+
+**Watch-outs**: Speed isn't carelessness — the urgency is shared want, not one partner's impatience. A relationship of *only* quickies starves on the lack of the slow, present types; write the hunger for more beneath the haste, or the quickie as the appetizer for the real meal later.
 
 ---
 

@@ -38,7 +38,7 @@ The erotic power of roleplay is **permission through pretend**. The "doctor" can
 - **Vampire / victim** — predation, immortality, the bite as penetration. Gothic desire.
 - **Knight / royalty** — chivalry, courtship, and the forbidden beneath the armor.
 - **Alien / abductee** — the clinical "examination" made literal and alien; otherness and curiosity.
-- **Omegaverse roles** — see the `breeding-creampie` skill; alpha/omega dynamics are a built-in roleplay frame.
+- **Omegaverse roles** — see the `cum-play` skill; alpha/omega dynamics are a built-in roleplay frame.
 
 ---
 
@@ -97,7 +97,7 @@ Write *both* layers, and especially the friction between them. That's what eleva
 
 ## Dirty Talk in Roleplay
 
-See the `dirty-talk` skill for the full treatment. In roleplay, the key is **staying in the persona's voice**:
+See the `verbal-erotica` skill for the full treatment. In roleplay, the key is **staying in the persona's voice**:
 - The doctor is clinical-then-warm: "You're doing very well. Just breathe. Good patient."
 - The boss is clipped and commanding: "You're behind on your deadlines. We'll address that now."
 - The stranger is bold and direct: "I saw you watching me across the bar."

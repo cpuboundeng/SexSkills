@@ -1,7 +1,3 @@
----
-name: dirty-talk
-description: "Complete dirty talk guide — praise, degradation, commands, questions, moans, tone calibration, and the psychology of erotic voice. Use when writing or roleplaying verbal eroticism, whispered praise, begging, degradation, or phone/audio scenes in smut/RP stories."
----
 
 # DIRTY TALK
 
@@ -13,7 +9,6 @@ The appeal is layered. Hearing desire spoken aloud is validation ("I want you").
 
 **Key distinction:** Dirty talk is not just "naughty words." It's a *dialogue* between partners with a purpose — to arouse, to dominate, to submit, to reassure, to narrate. It spans praise, degradation, commands, questions, description, and pure sound.
 
----
 
 ## The Psychology
 
@@ -23,7 +18,6 @@ The appeal is layered. Hearing desire spoken aloud is validation ("I want you").
 - **Anticipation** — "wait until I get you home" builds arousal *before* any touch. Words create the scene in the mind first.
 - **Reduced inhibition** — talking about sex requires lowering the guard, which deepens vulnerability and trust. The more someone says, the more present they are.
 
----
 
 ## The Categories
 
@@ -90,7 +84,6 @@ The submissive voice. Asking, pleading, permission-seeking.
 ### 7. Pure Sound
 Moans, gasps, whimpers, growls, laughter, breath. Not words — but they are the raw material dirty talk grows from, and sometimes the most honest "talk" there is.
 
----
 
 ## The Craft of Writing It
 
@@ -120,7 +113,6 @@ Use dashes and ellipses to show voice breaking:
 - "Come for me. Now."
 - "Don't you *dare* stop."
 
----
 
 ## Special Contexts
 
@@ -130,6 +122,8 @@ No physical contact — everything lives in the voice. The listener supplies the
 - **Sound focus** — breathing, the wet sounds, the catch in the voice, the background silence.
 - **The imagination gap** — describe *less* so the listener fills in more. "I'm thinking about what I'd do to you right now."
 
+> For the full sexting/phone-sex treatment — pacing the exchange, the gap, the five mediums — see `references/sexting.md`. This section is only the voice-side overlap.
+
 ### First-time dirty talk (the hesitant character)
 - Start with truth, not performance: "I want you" is enough to start.
 - Show the character tripping over words, laughing, going quiet, then trying again.
@@ -138,7 +132,6 @@ No physical contact — everything lives in the voice. The listener supplies the
 ### Roleplay dialogue
 See the **roleplay** skill — dirty talk is the engine that powers a scenario. Personas speak differently: the "doctor" is clinical-turned-warm, the "boss" is clipped and commanding.
 
----
 
 ## The "Line Library" (for reference, not copy-paste)
 
@@ -154,7 +147,6 @@ See the **roleplay** skill — dirty talk is the engine that powers a scenario. 
 
 **Orgasm-adjacent:** *come for me, let go, I want to feel you come, don't hold back, give it to me, let me hear you*
 
----
 
 ## Writing Tips
 
@@ -171,7 +163,6 @@ See the **roleplay** skill — dirty talk is the engine that powers a scenario. 
 4. **Purple clichés** — avoid worn phrases unless the character would genuinely use them. Earn the filthy line.
 5. **Forgetting consent's frame** — degradation and commands read as abuse without an agreed context. The *structure* (a safeword, a nod, a "yes") is part of the eroticism.
 
----
 
 ## Scene Structure Example
 

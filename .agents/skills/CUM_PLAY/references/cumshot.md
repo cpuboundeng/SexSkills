@@ -1,7 +1,3 @@
----
-name: cumshot
-description: "Complete cumshot guide — external ejaculation, facial and body finishes, the 'where to finish' decision, cum-play aftermath, power dynamics, and writing tips. Use when describing or roleplaying a visible external ejaculation in smut/RP stories."
----
 
 # CUMSHOT
 
@@ -11,9 +7,8 @@ A cumshot is external ejaculation — the climax made *visible*. Where a creampi
 
 Its erotic power is about **the visual**. Ejaculate is the body's unambiguous evidence of climax — you can't fake it, hide it, or take it back. To have it on your skin is to be *marked* by someone's pleasure. That marking carries the whole spectrum of meaning: worship ("you're so beautiful covered in me"), degradation ("look at the mess I made of you"), or pure celebration ("yes — *yes* — there it is").
 
-**Key distinction:** A cumshot is one giver finishing externally on one receiver. **Bukkake** (see that skill) is *multiple* givers finishing on one person — same visual language, communal scale. A **creampie** (see that skill) is internal. The three are siblings, not synonyms; scenes often move between them.
+**Key distinction:** A cumshot is one giver finishing externally on one receiver. **Bukkake** (see `references/bukkake.md`) is *multiple* givers finishing on one person — same visual language, communal scale. A **creampie** (see `references/creampie_breeding.md`) is internal. The three are siblings, not synonyms; scenes often move between them.
 
----
 
 ## The "Where to Finish" Decision
 
@@ -32,7 +27,6 @@ The location of the cumshot is a storytelling choice. It says something about th
 
 **The decision beat:** *Where* the giver finishes is often negotiated in the heat of the moment — "where do you want it?" — or seized unilaterally. That moment of choice is itself a scene beat: the giver pulling out, the receiver's anticipation, the wordless question answered by aim.
 
----
 
 ## The Mechanics & Sensory Detail
 
@@ -51,7 +45,6 @@ The location of the cumshot is a storytelling choice. It says something about th
 - The receiver's reaction: touching it, tasting it, wiping it, wearing it.
 - The "cleanup" beat — a towel, a tongue, a shared shower — or the deliberate *refusal* to clean up, letting it linger.
 
----
 
 ## The Psychology
 
@@ -61,7 +54,6 @@ The location of the cumshot is a storytelling choice. It says something about th
 - **Validation** — for the giver, seeing the result *land* confirms their climax is real and witnessed.
 - **Theatricality** — the cumshot is inherently a performance, a final image. It rewards being written with a director's eye for composition.
 
----
 
 ## Power Dynamics
 
@@ -70,16 +62,14 @@ The location of the cumshot is a storytelling choice. It says something about th
 - **The mutual surrender** — neither controls the moment; the climax just *happens*, messy and unplanned, and both are left laughing or breathless in the aftermath.
 - **The begging** — the receiver *asks* for it: "please — on me — I want to feel it." The ask is the kink.
 
----
 
 ## Crossovers
 
-- **Bukkake** — multiple givers, one receiver. Same visual, communal scale. See the `bukkake` skill.
-- **Creampie** — internal finish. See the `breeding-creampie` skill. Scenes often *deny* the creampie to deliver the cumshot, or vice versa — the "where" is the whole tease.
+- **Bukkake** — multiple givers, one receiver. Same visual, communal scale. See `references/bukkake.md`.
+- **Creampie** — internal finish. See `references/creampie_breeding.md`. Scenes often *deny* the creampie to deliver the cumshot, or vice versa — the "where" is the whole tease.
 - **Titty fuck / mammary intercourse** — the receiver's chest is both the *act* (the giver thrusting between) and the *target* (the finish). A chest cumshot is its natural climax.
 - **Facial as degradation or worship** — the same physical act spans both ends of the power spectrum; tone and consent determine the read.
 
----
 
 ## Writing Tips
 
@@ -102,7 +92,6 @@ The location of the cumshot is a storytelling choice. It says something about th
 4. **Same register every time** — a cumshot can be tender, degrading, triumphant, or funny. Match it to the scene's emotional truth.
 5. **Forgetting consent's frame** — finishing on someone without negotiation is a consent violation in reality; in fiction, the *best* scenes include a beat of asking, permission, or invitation. It makes the mark hotter, not softer.
 
----
 
 ## Scene Structure Example
 
