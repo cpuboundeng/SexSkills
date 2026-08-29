@@ -1,6 +1,6 @@
 ---
 name: group-sex
-description: "Complete group sex guide — types (threesomes, orgies, swinging), multi-partner positions, dynamics, etiquette, terminology, and writing tips for smut/RP. Use when describing or roleplaying any multi-partner group sex scene."
+description: "Complete group sex guide — threesomes, foursomes, orgies, swinging, gangbangs, free-use, and double penetration; multi-partner positions, choreography, dynamics, etiquette, terminology, and writing tips for smut/RP. Use when describing or roleplaying any multi-partner group sex scene, from a threesome to a gangbang."
 ---
 
 # GROUP SEX
@@ -30,7 +30,7 @@ The erotic appeal lies in scale and variety. It combines direct stimulation with
 
 ### Group Size Reference
 
-- **Three (Threesome):** The foundational scene. See THREESOME skill for configurations (MMF, MFM, MFF, MMM, FFF).
+- **Three (Threesome):** The foundational scene. See `references/threesome.md` for configurations (MMF, MFM, MFF, MMM, FFF).
 - **Four (Foursome):** The "puzzle" phase. Two couples is most common. Core appeal: mutual partner exploration.
 - **Five+ (Orgy):** Shifts to **zones of activity** rather than choreographed positions. Core appeal: abundance, unlimited variety.
 
@@ -40,7 +40,7 @@ The erotic appeal lies in scale and variety. It combines direct stimulation with
 
 ### For Three People
 
-See THREESOME skill for exhaustive coverage. Key positions:
+See `references/threesome.md` for exhaustive coverage. Key positions:
 
 - **Eiffel Tower** — Both partners at opposite ends of the central person
 - **V-Formation** — Central receiver flanked by two partners
@@ -257,3 +257,13 @@ Elena lay back, Jake's cock still inside her, Sarah's head on her shoulder, Marc
 - **Space:** Three+ bodies need room. Use floors, larger beds, or stacking positions.
 - **Exit strategy:** Plan after — who stays, who leaves, when.
 - **Aftercare for all:** Givers can be physically and emotionally drained. Check on everyone.
+
+---
+
+## Reference Library
+
+| Reference | Contents |
+|-----------|----------|
+| `references/threesome.md` | MMF, MFM, MFF, MMM, FFF configurations — positions, choreography, dynamics, scene arcs |
+| `references/gangbang_free_use.md` | Gangbangs (one center, many partners) and free-use (standing availability) — focus, choreography, rules, scene arcs |
+| `references/double_penetration.md` | Vaginal + anal / vaginal + oral with multiple partners — coordination, the "feel each other through you" feedback, scene arc |

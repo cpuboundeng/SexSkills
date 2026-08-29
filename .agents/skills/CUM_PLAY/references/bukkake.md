@@ -1,7 +1,3 @@
----
-name: bukkake
-description: "Complete bukkake guide — origins, mechanics, face vs. body focus, power dynamics, and multi-participant scene writing. Use when describing or roleplaying group facial ejaculation in smut/RP stories."
----
 
 # Bukkake
 

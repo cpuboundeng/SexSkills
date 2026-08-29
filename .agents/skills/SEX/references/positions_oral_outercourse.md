@@ -43,13 +43,26 @@ Cunnilingus technique lives in the `cunnilingus` skill; the positional shapes:
 
 ## 69
 
-**Setup**: Simultaneous oral sex — both partners giving and receiving at once. Variations: side-by-side (both lying on their sides, head-to-toe), one on top of the other, standing (one partner holding the other upside down — athletic).
+Sixty-nine is mutual oral — two partners giving and receiving at once, arranged head-to-groin. It collapses the giver/receiver divide entirely: everyone is both, at once. Technique for each half lives in the `blowjob` and `cunnilingus` skills; this section covers what makes 69 *distinct*.
+
+**Setup & positions**:
+- **Person-on-top (classic)** — one lies back, the other kneels over them facing their feet and lowers down. The top partner controls depth and angle; the bottom partner lies back and works upward.
+- **Side-lying (lazy/romantic)** — both on their sides, heads supported by each other's thighs. Slower, tender, less acrobatic.
+- **Standing / lifted** — advanced and urgent; use for a specific story beat (risk, raw need).
 
 **Sensation map**: Total simultaneity — every sensation doubled by the sensation of giving. The challenge is real: it's hard to focus on receiving while attending to giving. The *distraction* is the point — the breakdown of technique into mutual overwhelm.
 
+**The feedback loop (the heart of 69)**: Write it as cause and effect — *she moaned around him, and the vibration made his hips lift, which pushed him deeper into her mouth, which made her moan again.* Each action is answered by a reaction that is itself a new action. A moan into a partner's body becomes *vibration* they can feel; that loop — pleasure in, pleasure out, endlessly compounding — is what makes 69 uniquely intense.
+
+**The coordination problem**: Both partners are distracted; receiving pleasure makes it hard to keep giving it. A partner's rhythm *stutters* when their own pleasure spikes; they lose the thread mid-motion, forehead resting on a thigh, then force themselves to resume. Partners sync — consciously ("match me") or instinctively. Perfect synchronization reads as fake; real 69 has stutters and mismatches.
+
 **What it expresses**: Playful, generous, egalitarian — nobody is just serving or just being served. It reads as *mutual appetite*.
 
-**Writing angle**: Write the *split attention* — the giver trying to keep their rhythm while their own pleasure keeps breaking their concentration, the sounds that escape into the other's body. The comedy and heat of both partners losing their composure at once. The moment one gives up and just *takes* their own pleasure is a delicious beat.
+**Power dynamics**: 69 seems egalitarian, but power can be claimed — by who's on top (controlling depth and pressure), by who sets the pace, or by the playful rivalry of "I'll make you stop first." The tender choice — no competition at all, two people tangled up and generous — is often strongest for emotional scenes.
+
+**Writing angle**: Track the *distraction and return* arc — pleasure → loss of focus → recovery → deeper pleasure → collapse. Because both partners are both giver and receiver, you can cut between "what I'm doing to you" and "what you're doing to me," often within a single paragraph. Use the hands (gripping thighs, spreading, holding hips, a finger slipping in to supplement the mouth) — they're free and important. Don't write two solo scenes side by side; weave the reactions so each one triggers the next.
+
+**Scene arc**: setup (the invitation, the positioning) → first contact (two mouths begin) → sync (rhythm matched, the loop opens) → fray (distraction, stutter, recovery) → peak (the loop collapses into climax) → untangling (the dazed, giddy aftermath).
 
 ---
 

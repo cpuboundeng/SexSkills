@@ -1,7 +1,3 @@
----
-name: threesome
-description: "Complete guide to threesomes — MMF, MFM, MFF, MMM, and FFF configurations, positions, dynamics, choreography, and writing tips. Use when describing or roleplaying three-person group sex scenes in smut/RP stories."
----
 
 # THREESOME
 
@@ -23,7 +19,6 @@ The erotic appeal lies in intensification: more hands, more mouths, more angles,
 | **MMM** | Three males | Shared mechanics: coordinated rhythm, rotation, attention-sharing. Higher friction = more lube. |
 | **FFF** | Three females | Emphasis on cunnilingus chains, mutual stimulation, and female-female dynamics. Women tend toward sharing and mutual enjoyment. |
 
----
 
 ## Anatomy & Body Reference
 
@@ -40,7 +35,6 @@ The erotic appeal lies in intensification: more hands, more mouths, more angles,
 - **Rotation signals:** Agree on a shared signal (word or tap) for rotating roles, pausing, or switching partners.
 - **Condoms:** In MMF/MFM, each male needs a **different** condom if they switch partners mid-scene.
 
----
 
 ## MMF Threesome (Two Males, One Female)
 
@@ -72,7 +66,6 @@ Central male sits or lies back. One female rides him; the third kneels to provid
 **5. Side-by-Side Oral Chain**
 Two partners lie on their backs. The third kneels between them and alternates oral. Works for any configuration. Kneeling partner controls pace; prone partners communicate through sound or touch. Ideal slow opener.
 
----
 
 ## MFM Threesome (Male — Female — Male)
 
@@ -100,7 +93,6 @@ Female on her back. One male enters from the front (mouth or vagina), the other 
 **5. The V-Share**
 Female seated or on all fours. Both males kneel on either side, each working on her from a slightly different angle — one oral, one manual. They coordinate rhythm or take turns. The symmetry creates a visually striking image.
 
----
 
 ## MFF Threesome (One Male, Two Females)
 
@@ -128,7 +120,6 @@ Male sits on the edge of the bed or a chair. Both females kneel on either side �
 **5. Cowgirl Double-Team**
 One female rides the male; the second kneels beside the bed, working his shaft and balls with hand and mouth. Rider controls pace; second controls her own stimulation. They can coordinate — rider's thrusts matched by oral on the glans.
 
----
 
 ## MMM Threesome (Three Males)
 
@@ -154,7 +145,6 @@ One partner lies on his back as the base. Second straddles him (riding). Third k
 **5. MMM Double Penetration**
 One male lies on his back. Two partners enter him simultaneously — one front (vaginal/anal), one rear (anal). Requires generous lube and relaxation. Can also feature one penetrating while the receiver oral-works the second.
 
----
 
 ## FFF Threesome (Three Females)
 
@@ -189,7 +179,6 @@ Two partners in spooning or side-by-side. Third kneels at center performing cunn
 - **Slower build:** Women generally take longer to reach peak arousal. Extended foreplay benefits the scene.
 - **Shared pleasure:** Research suggests women prioritize collective pleasure over competition in FFF scenes — all three equally satisfied.
 
----
 
 ## Universal Positions (Any Configuration)
 
@@ -202,7 +191,6 @@ Two partners in spooning or side-by-side. Third kneels at center performing cunn
 | **Rotating Chair** | One partner seated. Others alternate between oral, manual, or riding. | Pacing control, any config |
 | **The Cross** | One on back. Second on top (riding). Third beside bed, working base or rider. | Visual variety, simultaneous zones |
 
----
 
 ## Dynamics & Power Structures
 
@@ -225,7 +213,6 @@ Two partners in spooning or side-by-side. Third kneels at center performing cunn
 3. **The "center" trap:** The central partner is the focus but not always the one having the most fun. Rotate.
 4. **The "observer" trap:** One partner drifts into passivity. Assign them an active task (holding a toy, touching one partner, directing the pace).
 
----
 
 ## Scene Structure & Progression
 
@@ -244,7 +231,6 @@ Two partners in spooning or side-by-side. Third kneels at center performing cunn
 - **Minutes 30+:** Peak play, climax, or switch configurations entirely.
 - **Check-ins:** Brief pauses every 10–15 minutes to rotate roles and ensure engagement.
 
----
 
 ## Writing Tips
 
@@ -275,7 +261,6 @@ Two partners in spooning or side-by-side. Third kneels at center performing cunn
 5. **Climax path** — Maintain the position that works. In threesomes, the most important rule is: *do not change a working arrangement during climax.*
 6. **Aftercare** — The partner who was receiving now gives attention to each giver. Small gestures: a kiss on each cheek, a hand on each shoulder, quiet words for each.
 
----
 
 ## Common Pitfalls
 
@@ -296,7 +281,6 @@ Two partners in spooning or side-by-side. Third kneels at center performing cunn
 10. **Height mismatch ignored:** Don't force a position that doesn't work ergonomically. A pillow under the central partner is the single most effective fix.
 11. **Condom cross-contamination:** In MMF/MFM, males switching partners need a fresh condom. Have extras ready.
 
----
 
 ## Scene Structure Example: MMF Central Focus
 
@@ -321,7 +305,6 @@ Her inner walls clamped down. Marcus groaned into her neck as she pulsed around 
 **7. Cool-down**
 Marcus pulled out slowly. Jake pressed his forehead to hers. She lay there, trembling, smiling, and reached for both of them — one hand on each cheek, kissing them both at the same time. "Again," she said. They both laughed. "Yes," they said together.
 
----
 
 ## Quick Position Reference by Mood
 
@@ -336,7 +319,6 @@ Marcus pulled out slowly. Jake pressed his forehead to hers. She lay there, trem
 | **First-time friendly** | Central Focus Missionary, V-Formation | MMF, MFF |
 | **Advanced/athletic** | Pyramid, MMM double penetration | MMM, any |
 
----
 
 ## Safety & Comfort Notes
 

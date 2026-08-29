@@ -1,7 +1,3 @@
----
-name: breeding-creampie
-description: "Complete breeding and creampie guide — the creampie act, impregnation fantasy, breeding dirty talk, cum-play aftermath, power dynamics, and writing tips. Use when describing or roleplaying internal ejaculation or breeding/impregnation kink in smut/RP stories."
----
 
 # BREEDING & CREAMPIE
 
@@ -13,7 +9,6 @@ The erotic power comes from several currents at once. There's the **taboo of con
 
 **Important framing for fiction:** In real life, creampies carry genuine pregnancy and STI risk, and any breeding scene involving those stakes requires enthusiastic consent and realistic awareness. In fiction, you can play the fantasy freely — but the *best* breeding scenes acknowledge the weight of it, even in passing. The fantasy is hotter when it *means* something.
 
----
 
 ## The Two Registers
 
@@ -28,7 +23,6 @@ The erotic power comes from several currents at once. There's the **taboo of con
 - Frequently paired with power dynamics (dom/sub), sometimes with omegaverse-style tropes in fan fiction.
 - The dirty talk is the core: breeding is a *verbal* kink as much as a physical one.
 
----
 
 ## The Psychology
 
@@ -38,7 +32,6 @@ The erotic power comes from several currents at once. There's the **taboo of con
 - **Vulnerability** — the receiver is literally opened, filled, and left holding the evidence. That exposure is intimate.
 - **The taboo** — the stakes (real or imagined) make this feel more transgressive than pull-out sex, and transgression is its own fuel.
 
----
 
 ## The Mechanics & Sensory Details
 
@@ -60,7 +53,6 @@ The erotic power comes from several currents at once. There's the **taboo of con
 - The giver's answering growl — the *wordless* response to the fantasy.
 - Post-climax pillow talk that doubles down on the fantasy ("I'm not done with you," "we're going to try again").
 
----
 
 ## Dirty Talk Library
 
@@ -72,7 +64,6 @@ The erotic power comes from several currents at once. There's the **taboo of con
 
 **Possession:** *mine, all mine, no one else, marked, claimed, full of me, you'll feel me for days*
 
----
 
 ## Power Dynamics
 
@@ -81,17 +72,15 @@ The erotic power comes from several currents at once. There's the **taboo of con
 - **The instinct-over-intellect** — both characters surrender to something older than thought. Power is dissolved in mutual animal need.
 - **The aftermath power shift** — after the act, the receiver holds the evidence, the giver's claim made physical. The "look what you did to me" beat can flip the dynamic tender or accusatory.
 
----
 
 ## Sub-Tropes & Crossovers
 
 - **Omegaverse** (fan-fiction) — a genre built on heats, ruts, knotting, and biological compulsion to breed. Its own vocabulary (alpha/omega, knot, heat) — see also `roleplay` for scenario framing.
 - **Knotting** — a fantasy element where the giver's base swells to lock the pair together, forcing them to stay joined through climax. Borrowed from canid biology; hugely popular in omegaverse.
 - **Impregnation roleplay** — the fantasy performed *as* a fantasy, often with contraception fully in place; the words and roles do the work, not the biology.
-- **Cum play** — see the `cumshot` skill for external ejaculation; creampie is its internal sibling. Scenes often move between them.
+- **Cum play** — see `references/cumshot.md` for external ejaculation; creampie is its internal sibling. Scenes often move between them.
 - **Breeding + BDSM** — the breeding kink sits comfortably inside dominance/submission, adding a biological frame to the power exchange.
 
----
 
 ## Writing Tips
 
@@ -113,7 +102,6 @@ The erotic power comes from several currents at once. There's the **taboo of con
 4. **One-note dominance** — breeding can be tender, desperate, primal, or playful. Match the tone to the characters.
 5. **Forgetting the receiver's agency** — the most charged breeding scenes give the receiver an active role: asking, pulling closer, directing. Passive receivers flatten the dynamic.
 
----
 
 ## Scene Structure Example
 

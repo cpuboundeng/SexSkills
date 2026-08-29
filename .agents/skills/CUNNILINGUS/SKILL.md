@@ -1,6 +1,6 @@
 ---
 name: cunnilingus
-description: "Complete guide to cunnilingus — clitoral anatomy, tongue techniques, positions, rhythm, and sensory detail. Use when describing or roleplaying oral sex on a woman in smut/RP scenes."
+description: "Complete guide to cunnilingus — clitoral anatomy, tongue techniques, positions, rhythm, sensory detail, and facesitting. Use when describing or roleplaying oral sex on a woman, including facesitting/queening, in smut/RP scenes."
 ---
 
 # Cunnilingus
@@ -94,7 +94,7 @@ Cunnilingus (from Latin *cunnus* "vulva" + *lingere* "to lick") is the act of st
 | **Spread Eagle** | She's at the edge of bed/table, legs wide. | Full vulva access |
 | **All Fours / Doggy** | She's on hands-and-knees above you. | Deep, direct from behind |
 | **69** | She's on top, face between legs. Simultaneous. | Mutual pleasure |
-| **Face-Sitting** | She sits on your face, you look up at her. | She controls depth/pressure |
+| **Face-Sitting** | She sits on your face, you look up at her. | She controls depth/pressure — see `references/facesitting.md` |
 | **Kivin Method** | Sideways. You approach perpendicularly from the side. | Side-to-side strokes, perineum pressure |
 | **Plumber (Standing)** | She stands, you kneel. | Dominant energy, standing |
 | **Virgo** | She stands against wall, you seated below. | Intense dominant angle |
@@ -209,3 +209,11 @@ Cunnilingus (from Latin *cunnus* "vulva" + *lingere* "to lick") is the act of st
 13. Every vulva is different — adapt to her body, not a checklist.
 14. The giver's experience matters too — watch, feel, taste, react.
 15. Pace is everything — 20+ minutes of good stimulation is normal.
+
+---
+
+## Reference Library
+
+| Reference | Contents |
+|-----------|----------|
+| `references/facesitting.md` | Facesitting & queening — the receiver above, oral service from below, smothering, control, power dynamics, scene arc |

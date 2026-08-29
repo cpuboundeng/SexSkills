@@ -1,6 +1,6 @@
 ---
 name: incest
-description: "Complete incest guide — step-family and blood relation dynamics, relationship types (sibling, parent/child, aunt/uncle/niece/nephew, cousin, grandparent/grandchild), tropes, psychology, and writing techniques. Use when describing or roleplaying incestuous relationships in smut/RP stories."
+description: "Complete incest guide — step-family and blood relation dynamics, relationship types (sibling, parent/child, aunt/uncle/niece/nephew, cousin, grandparent/grandchild), family sex (group/whole-family scenes), tropes, psychology, and writing techniques. Use when describing or roleplaying incestuous relationships or family sex in smut/RP stories."
 ---
 
 # INCEST
@@ -14,6 +14,7 @@ The incest genre splits into two broad categories:
 - **Step-family (Fauxcest)** — Relationships through marriage, not blood. Step-siblings are by far the most popular subtype. The appeal lies in the *illusion* of blood relation without the biological taboo. The characters share a home, history, and family identity, but there is no genetic link — making it "safe" taboo. Available in both opposite-sex and same-sex pairings.
 - **Blood (True) Incest** — Biological relations: siblings, parent/child, aunt/uncle, cousins, etc. Carries the full weight of the taboo — the genetic, cultural, and psychological dimensions are all present. Available in both opposite-sex and same-sex pairings.
 - **In-Law** — Not blood relations but often included in the broader "forbidden family" category. Brother-in-law, father-in-law, mother-in-law, aunt/uncle by marriage.
+- **Family Sex (Group)** — Scenes with *multiple* family members together: the family threesome, the whole-household orgy, multi-generational and free-use dynamics. See `references/family_sex.md`.
 
 ### Why Incest Works in Fiction
 
@@ -525,3 +526,11 @@ Incest scenes benefit from words that contrast familiarity with novelty:
 - **Parent/child (F/F)**: Nurturing-to-desire arc, the body she shaped, the feminine legacy. The tone is maternal yet erotic.
 - **Cousins**: Romantic, adventurous, "us against the world." The tone is lighter but still charged.
 - **In-laws**: Tense, forbidden, the "we shouldn't" energy. A blend of step and stranger.
+
+---
+
+## Reference Library
+
+| Reference | Contents |
+|-----------|----------|
+| `references/family_sex.md` | Family sex — group/whole-family scenes: threesomes, moresomes, the family orgy, multi-generational and free-use dynamics |
