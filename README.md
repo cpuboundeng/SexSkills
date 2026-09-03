@@ -16,7 +16,7 @@ Agent Skills are the standard format for giving AI agents specialized, on-demand
 2. **Markdown body** — the actual reference content (techniques, vocabulary, scene structure, etc.).
 3. **Optional `references/`** — deeper material loaded only when needed (used by `bdsm`, `sex`, `anal`, `fingering`, `cum-play`, and more).
 
-The agent sees only the name + description in its context until a task matches, then loads the full guide. This is *progressive disclosure* — 31 rich guides without bloating the prompt.
+The agent sees only the name + description in its context until a task matches, then loads the full guide. This is *progressive disclosure* — 33 rich guides without bloating the prompt.
 
 ---
 
@@ -57,9 +57,11 @@ The skills are plain Markdown — read them directly as reference material.
 |-------|----------------|
 | `skill-style-guide` | The **master craft guide** — POV, pacing, tension, sensory language, consent framing, avoiding clichés, scene structure. Load alongside any act-specific skill. |
 | `aftercare` | Emotional and sensory aftercare — cuddling, pillow talk, vulnerability, tenderness, and the charged quiet after sex. |
+| `arousal-system` | Dual-track pacing system — separate physical & mental arousal meters, the orgasm gate, plateaus, goalpost moves. Use to stop scenes rushing to orgasm too fast. |
 | `anal` | Complete anal play — preparation, toys, positions, prostate stimulation, butt plugs, anal sex, and pegging (strap-on penetration) for all bodies. |
 | `bdsm` | Negotiation, safewords, bondage, D/s, sadism/masochism, impact play, shibari, humiliation, CNC, orgasm control, and more. |
 | `blowjob` | Fellatio — giving techniques, receiving sensations, positions, face-fuck dynamics. |
+| `boundaries` | Holds the user responsible as a co-author — pushing back on awkward requests, rushing, and bad behavior instead of folding; plus the craft of characters whose limits are real: a "no" that means no, refusals that are good scenes, consent that survives pressure. |
 | `breast-play` | Breast and nipple play — breast worship, nipple stimulation, nipple orgasm, titfucking (mammary intercourse). |
 | `character-creation` | Creating smut characters — gender & sexuality, race & ethnicity, body type, appearance, personality, preferences, kinks, and backstory. |
 | `climax` | Writing the orgasm beat — male/female differences, sensory language, POV, avoiding clichés. |
@@ -67,7 +69,7 @@ The skills are plain Markdown — read them directly as reference material.
 | `cum-play` | Where the climax lands — creampie/breeding (internal), cumshot (external/facial), bukkake (group facial), plus lactation/milking; the where-to-finish decision, aftermath, power dynamics. |
 | `cunnilingus` | Oral sex on a woman — clitoral anatomy, tongue techniques, positions, rhythm, sensory detail, and facesitting. |
 | `erotic-massage` | Swedish, sensual, tantric, and nuru massage — oil/touch protocols, the relaxation-to-arousal arc. |
-| `exhibitionism-voyeurism` | The gaze — exhibitionism (being seen, public nudity, public sex) and voyeurism (watching, peeping); the watcher/watched dynamic, consent frames. |
+| `exhibitionism-voyeurism` | The gaze — exhibitionism (being seen, public nudity, public sex, clothing peeks: upskirt, down-blouse, see-through, sideboob) and voyeurism (watching, peeping); the watcher/watched dynamic, consent frames. |
 | `fingering` | Digital stimulation — external/internal techniques, giver mechanics, receiver sensations, and fisting (whole-hand penetration). |
 | `foreplay` | The anticipation arc — teasing, escalation, erogenous zones, building arousal before penetration. |
 | `group-sex` | Multi-partner sex — threesomes, foursomes, orgies, swinging, gangbangs, free-use, and double penetration; positions, dynamics, etiquette. |
@@ -96,14 +98,18 @@ SexSkills/
 ├── README.md                  # You are here
 ├── TEMPLATE_NEW_SKILL.md      # Guide for adding a new skill
 ├── .agents/
-│   └── skills/                # ← The skills (31 directories)
+│   └── skills/                # ← The skills (33 directories)
 │       ├── AFTERCARE/SKILL.md
+│       ├── AROUSAL_SYSTEM/
+│       │   ├── SKILL.md
+│       │   └── references/    # tracking sheet
 │       ├── ANAL/
 │       │   ├── SKILL.md
 │       │   └── references/    # pegging
 │       ├── BDSM/
 │       │   ├── SKILL.md
-│       │   └── references/    # 31 sub-guides loaded on demand
+│       │   └── references/    # 29 sub-guides loaded on demand
+│       ├── BOUNDARIES/SKILL.md
 │       ├── BREAST_PLAY/SKILL.md
 │       ├── CHARACTER_CREATION/
 │       │   ├── SKILL.md
@@ -116,7 +122,7 @@ SexSkills/
 │       │   └── references/    # facesitting
 │       ├── EXHIBITIONISM_VOYEURISM/
 │       │   ├── SKILL.md
-│       │   └── references/    # public nudity/exhibitionism, voyeurism
+│       │   └── references/    # public nudity/exhibitionism, voyeurism, clothing peeks
 │       ├── FINGERING/
 │       │   ├── SKILL.md
 │       │   └── references/    # fisting
@@ -179,8 +185,8 @@ The goal throughout is **usable, specific craft** — not vague prose. A good sk
 
 | Field | Convention | Example |
 |-------|-----------|---------|
-| Directory | `UPPER_SNAKE_CASE` | `BLOWJOB`, `DIRTY_TALK` |
-| `name` | lowercase, hyphens allowed | `blowjob`, `dirty-talk` |
+| Directory | `UPPER_SNAKE_CASE` | `BLOWJOB`, `CUM_PLAY` |
+| `name` | lowercase, hyphens allowed | `blowjob`, `cum-play` |
 | `description` | Scope + trigger | `"…Use when describing or roleplaying…"` |
 
 ---

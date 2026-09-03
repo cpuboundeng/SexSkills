@@ -1,6 +1,6 @@
 ---
 name: bdsm
-description: "Complete BDSM skill covering negotiation, safewords, bondage, dominance/submission, sadism, masochism, impact play (spanking, paddling, caning, flogging, whipping), shibari, humiliation, CNC, orgasm control, and more. Use when describing or roleplaying BDSM scenes, kink dynamics, impact play, rope bondage, power exchange, submission, or discipline in smut/RP stories."
+description: "Complete BDSM skill covering negotiation, safewords, bondage, dominance/submission, sadism, masochism, impact play (spanking, paddling, caning, flogging, whipping), shibari, humiliation, CNC, orgasm control, pleasure domination, and more. Use when describing or roleplaying BDSM scenes, kink dynamics, impact play, rope bondage, power exchange, submission, or discipline in smut/RP stories."
 ---
 
 # BDSM
@@ -85,9 +85,9 @@ Restraint as a physical manifestation of trust. The bound partner experiences su
 > See `references/bondage.md` and `references/shibari.md`.
 
 ### Discipline / Dominance & Submission (D/s)
-The deliberate structuring of a scene or relationship around power exchange. The sub gives up decision-making authority; the Dom holds it — and the *responsibility* is as arousing as the control. D/s shows up in speech rules, kneeling, forms of address, task assignments, and discipline systems. The erotic core is the constant, felt weight of who belongs to whom — in a look, a command, a reward.
+The deliberate structuring of a scene or relationship around power exchange. The sub gives up decision-making authority; the Dom holds it — and the *responsibility* is as arousing as the control. D/s shows up in speech rules, kneeling, forms of address, task assignments, and discipline systems. The erotic core is the constant, felt weight of who belongs to whom — in a look, a command, a reward. One notable style is the **Pleasure Dom**, who leads through the timed, controlled delivery of the sub's own pleasure rather than through pain or rules.
 
-> See `references/dominance_submission.md`.
+> See `references/dominance_submission.md` and `references/pleasure_dom.md`.
 
 ### Sadism
 Erotic pleasure from **causing** sensation, intensity, or psychological effect. Impact play, sensation play, psychological teasing and control. The appeal is often less about pain than about the bottom's reaction: the trust, the surrender, the visible response. Skilled sadism is precise — reading the body, calibrating sensation, building to a peak.
@@ -151,6 +151,7 @@ Consent isn't a contract scene you have to write out — it's the *way* the top 
 | `references/bondage.md` | Bondage types, positions, safety, scene arc |
 | `references/shibari.md` | Rope choice, knots, classic ties, floor work, suspension |
 | `references/dominance_submission.md` | Dom/sub archetypes, protocols, rituals, discipline, power levels |
+| `references/pleasure_dom.md` | Pleasure Dom archetype — pleasure as the tool of control, tools, scene arc, the submissive's side |
 | `references/sadism.md` | The sadist's mindset, impact & sensation play, psychological sadism, CBT |
 | `references/masochism.md` | Pain reception, subspace, masochist's safety, drop |
 | `references/spanking_paddling.md` | Hand spanking, paddles, positions, techniques, marks |
