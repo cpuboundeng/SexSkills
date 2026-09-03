@@ -20,6 +20,7 @@ D/s is the deliberate structuring of a scene or relationship around power exchan
 | **Punishing** | Focuses on correction and consequence | Discipline as love language |
 | **Primal** | Raw, instinctive, animalistic | The Dom is a force, not a person |
 | **Service Dom** | Pleasure from serving while still controlling | Devotion expressed through caretaking |
+| **Pleasure Dom** | Leads through the timed control of the sub's own pleasure | Helpless surrender to ecstasy; see `pleasure_dom.md` |
 | **Sadist Dom** | Arousal from causing sensation/intensity | The bottom's reaction is the reward |
 
 Most Doms blend several types; the mix defines the dynamic's flavor.

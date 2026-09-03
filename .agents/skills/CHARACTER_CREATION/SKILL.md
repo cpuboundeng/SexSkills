@@ -1,6 +1,6 @@
 ---
 name: character-creation
-description: "Complete guide to creating characters for smut and erotica — gender & sexuality, race & ethnicity, body type, appearance, personality, preferences, kinks, and backstory. Use when creating, designing, or fleshing out characters for smut/RP stories."
+description: "Complete guide to creating characters for smut and erotica — setting & world, age, gender & sexuality, race & ethnicity, occupation & role, body type, appearance, style & dress, personality, preferences, kinks, and backstory. Use when creating, designing, or fleshing out characters for smut/RP stories."
 ---
 
 # CHARACTER CREATION
@@ -12,6 +12,8 @@ A smut scene only works if the reader cares about the *people* having it. Two in
 So the job of character creation is not to assemble a list of physical traits. It's to build a **desire engine**: a person with wants, needs, a secret, an obstacle, and a voice — someone whose presence on the page makes the reader lean in. The body, the kinks, the preferences are all in service of that engine; they're the *surface* through which the wanting shows.
 
 **Key distinction:** A character is not a stat block. "5'10, blue eyes, likes BDSM" is a profile, not a person. The same trait list produces a dozen different people depending on *what they want and what they're afraid of*. Start with the engine; the details follow.
+
+**Scope note:** every character in this library is an adult — 18 or older — and is written as an adult. Age-play and caregiver/little dynamics are roles between adults, never depictions of minors. See `references/age.md`.
 
 ## The Desire Engine (the core)
 
@@ -31,10 +33,14 @@ Build top to bottom. Each layer routes to its deep guide:
 
 | Layer | What you're defining | Reference |
 |-------|----------------------|-----------|
+| **Setting** | the world they live in — era, genre, rules, what it forbids and licenses | `references/setting_world.md` |
+| **Age** | life stage, experience, maturity — adult, and what the stage gives a scene | `references/age.md` |
 | **Identity** | gender, pronouns, sexuality, how they name themselves | `references/gender_sexuality.md` |
 | **Heritage** | race, ethnicity, culture, how it shapes them (without stereotype) | `references/race_ethnicity.md` |
+| **Occupation & role** | what they do — profession, status, class, the power they hold | `references/occupation_role.md` |
 | **Body** | shape, size, breasts, body hair, scars, marks — written as *desired* | `references/body_type.md` |
 | **Appearance** | hair, eyes, skin, face, hands — the concrete picture | `references/appearance.md` |
+| **Style & dress** | wardrobe, signature pieces, how they wear it, what it says — clothing as characterization | `references/style_dress.md` |
 | **Inner life** | personality, flaws, desire, secret, wound, backstory | `references/personality_backstory.md` |
 | **Taste** | preferences, turn-ons/offs, what they want in a partner | `references/preferences.md` |
 | **Kinks** | the kink profile — what, why, limits, what it reveals | `references/kinks.md` |
@@ -64,10 +70,14 @@ A fill-in template. Not a cage — a starting point.
 
 ```
 Name / nickname (and what it means to them):
+Setting: era, genre, world — the rules that shape them —
+Age: life stage, experience, what the stage gives or costs —
 Identity: gender, pronouns, sexuality —
 Heritage: race/ethnicity, culture, the details that matter —
+Occupation & role: what they do, status, class, the power they hold —
 Body: shape, size, one thing they love/hate about it —
 Appearance: hair, eyes, skin, the first thing people notice —
+Style & dress: the signature piece, what their clothes say, how they wear it —
 Voice: how they talk, the words they use, what they'd never say —
 Personality: two strengths, two flaws, one contradiction —
 Desire: what they want —
@@ -102,10 +112,14 @@ The break: the moment the obstacle gives —
 
 | Reference | Contents |
 |-----------|----------|
+| `references/setting_world.md` | The world the character lives in — era, genre, rules, what the setting forbids and licenses |
+| `references/age.md` | Life stage, experience, age gaps and power — writing adult characters and what age gives a scene |
 | `references/gender_sexuality.md` | Gender identity, pronouns, orientation, writing trans & nonbinary characters with respect |
 | `references/race_ethnicity.md` | Writing characters of any background respectfully — skin/hair vocabulary, avoiding fetishization and stereotype |
+| `references/occupation_role.md` | What they do — profession, status, class, the power gap, work as scenario engine |
 | `references/body_type.md` | Body shapes and sizes, breast description, body hair, scars, marks — writing bodies as desired |
 | `references/appearance.md` | Hair, eyes, skin, face, hands — the concrete vocabulary of physical description |
+| `references/style_dress.md` | Wardrobe, signature pieces, how they wear it, body + clothing, underwear/lingerie — clothing as characterization |
 | `references/personality_backstory.md` | Personality, flaws, desire/secret/wound, backstory hooks, voice and dialogue |
 | `references/preferences.md` | Sexual preferences, turn-ons/offs, experience, love language, what they want in a partner |
 | `references/kinks.md` | The kink profile — what, why, limits, kink as character revelation, pairing kinks for chemistry |
@@ -115,4 +129,6 @@ The break: the moment the obstacle gives —
 - **skill-style-guide** — the master craft guide; pair with this skill for *how* to write the character into scenes.
 - **roleplay** — for invented personas within a scene (the mask a character wears).
 - **verbal-erotica** — for voice, dirty talk, and how a character speaks.
+- **exhibitionism-voyeurism** — for the erotic *reveal* of clothing (the peek, the flash, the fabric coming off). See `exhibitionism-voyeurism/references/clothing_peeks.md`.
+- **foreplay** — for the undressing itself, once the wardrobe has done its work.
 - **sex / foreplay / bdsm / etc.** — act skills tell you *what* the character does; this skill tells you *who* is doing it.
